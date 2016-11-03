@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="dropbox" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 128 128"
+	 style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#666666;}
+</style>
+<path class="st0" d="M49.8,32L29.6,45.2l14,11.2L64,43.8L49.8,32 M29.6,67.6l20.3,13.2L64,69L43.6,56.4L29.6,67.6 M64,69l14.2,11.8
+	l20.3-13.2l-14-11.2L64,69 M98.4,45.2L78.2,32L64,43.8l20.4,12.6L98.4,45.2 M64,71.6L49.8,83.4l-6.1-4v4.4L64,96l20.3-12.2v-4.4
+	l-6.1,4L64,71.6 M128,64c0,35.3-28.7,64-64,64S0,99.3,0,64S28.7,0,64,0S128,28.7,128,64z"/>
+</svg>

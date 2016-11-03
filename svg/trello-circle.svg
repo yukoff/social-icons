@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="trello" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#666666;}
+</style>
+<path class="st0" d="M40,32c-4.4,0-8,3.6-8,8v48c0,4.4,3.6,8,8,8h48c4.4,0,8-3.6,8-8V40c0-4.4-3.6-8-8-8H40z M72,40
+	c-2.2,0-4,1.8-4,4v20c0,2.2,1.8,4,4,4h12c2.2,0,4-1.8,4-4V44c0-2.2-1.8-4-4-4H72z M44,40c-2.2,0-4,1.8-4,4v36c0,2.2,1.8,4,4,4h12
+	c2.2,0,4-1.8,4-4V44c0-2.2-1.8-4-4-4H44z M128,64c0,35.3-28.7,64-64,64S0,99.3,0,64S28.7,0,64,0S128,28.7,128,64z"/>
+</svg>
